@@ -5,3 +5,4 @@ joblib
 pyttsx3
 scikit-learn
 xgboost
+gradio
