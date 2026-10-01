@@ -4,3 +4,4 @@ numpy
 joblib
 pyttsx3
 scikit-learn
+xgboost
